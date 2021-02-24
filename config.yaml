@@ -1,4 +1,4 @@
-baseurl = "https://intellsci.github.io/websitetrial.github.io/"
+baseurl = "/./""
 publishDir = "./"
 title = "IntellSci Research Organization"
 copyright = "&copy; 2017 Eugenio Palmieri"
